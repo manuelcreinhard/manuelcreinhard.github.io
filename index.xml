@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel Cantu Reinhard</title>
+    <link>http://http:/manuelreinhard.com/</link>
+    <description>Recent content on Manuel Cantu Reinhard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jun 2016 12:48:56 +0100</lastBuildDate>
+    <atom:link href="http://http:/manuelreinhard.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>home setup</title>
+      <link>http://http/manuelreinhard.com/blog/homesetup/</link>
+      <pubDate>Mon, 27 Jun 2016 12:48:56 +0100</pubDate>
+      
+      <guid>http://http/manuelreinhard.com/blog/homesetup/</guid>
+      <description>
+
+&lt;h1 id=&#34;overview:084507bb5da73f21b688b9c5b52d3350&#34;&gt;Overview&lt;/h1&gt;
+
+&lt;h2 id=&#34;laptop:084507bb5da73f21b688b9c5b52d3350&#34;&gt;Laptop&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ubuntu(&lt;a href=&#34;http://www.ubuntu.com&#34;&gt;http://www.ubuntu.com&lt;/a&gt;)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Core i5&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;Atom&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://fishshell.com/&#34;&gt;Fish Shell&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.ikalogic.com/scanastudio_v2/&#34;&gt;Scana Studio&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bench:084507bb5da73f21b688b9c5b52d3350&#34;&gt;Bench&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://dangerousprototypes.com/docs/Bus_Pirate&#34;&gt;Bus Pirate&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.ikalogic.com/scanalogic-2-support-page&#34;&gt;SCANALOGIC-2 Pro&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Manuel</title>
+      <link>http://http/manuelreinhard.com/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://http/manuelreinhard.com/about/</guid>
+      <description>
+
+&lt;p&gt;Manuel has a B.Sc. in Telecommunications and Electronic Systems. He has a deep love for programming and electronics. His favorite OS for personal use is Ubuntu.&lt;/p&gt;
+
+&lt;h2 id=&#34;teams:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Teams:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www-03.ibm.com/systems/uk/storage/storwize/&#34;&gt;IBM Storwize&lt;/a&gt;&lt;/strong&gt; July 2015 - Present&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://cloud.oracle.com/database&#34;&gt;Oracle DBaaS&lt;/a&gt;&lt;/strong&gt; July 2014 - July 2015&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html&#34;&gt;Oracle TImesTen&lt;/a&gt;&lt;/strong&gt; September 2011 - July 2014&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;programming-languages:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Programming Languages:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;C&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C++&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PERL&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Java&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;languages:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Languages&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;English&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spanish&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;German&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;past-projects:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Past Projects:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Inertial Navigation System with Galvanic Vestibular Stimulation&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accelerometer and Fuzzy logic remote controlled car&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
