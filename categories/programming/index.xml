@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Manuel Cantu Reinhard</title>
-    <link>http://manuelreinhard.com/categories/programming/</link>
+    <link>/categories/programming/</link>
     <description>Recent content in Programming on Manuel Cantu Reinhard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Jun 2016 12:48:56 +0100</lastBuildDate>
-    <atom:link href="http://manuelreinhard.com/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>home setup</title>
-      <link>http://manuelreinhard.com/blog/homesetup/</link>
+      <link>/blog/homesetup/</link>
       <pubDate>Mon, 27 Jun 2016 12:48:56 +0100</pubDate>
       
-      <guid>http://manuelreinhard.com/blog/homesetup/</guid>
+      <guid>/blog/homesetup/</guid>
       <description>
 
 &lt;h1 id=&#34;overview:084507bb5da73f21b688b9c5b52d3350&#34;&gt;Overview&lt;/h1&gt;
