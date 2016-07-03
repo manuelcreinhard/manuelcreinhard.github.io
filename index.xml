@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manuel Cantu Reinhard</title>
-    <link>http://http:/manuelreinhard.com/</link>
+    <link>http://manuelreinhard.com/</link>
     <description>Recent content on Manuel Cantu Reinhard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Jun 2016 12:48:56 +0100</lastBuildDate>
-    <atom:link href="http://http:/manuelreinhard.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://manuelreinhard.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>home setup</title>
-      <link>http://http/manuelreinhard.com/blog/homesetup/</link>
+      <link>http://manuelreinhard.com/blog/homesetup/</link>
       <pubDate>Mon, 27 Jun 2016 12:48:56 +0100</pubDate>
       
-      <guid>http://http/manuelreinhard.com/blog/homesetup/</guid>
+      <guid>http://manuelreinhard.com/blog/homesetup/</guid>
       <description>
 
 &lt;h1 id=&#34;overview:084507bb5da73f21b688b9c5b52d3350&#34;&gt;Overview&lt;/h1&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>About Manuel</title>
-      <link>http://http/manuelreinhard.com/about/</link>
+      <link>http://manuelreinhard.com/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://http/manuelreinhard.com/about/</guid>
+      <guid>http://manuelreinhard.com/about/</guid>
       <description>
 
 &lt;p&gt;Manuel has a B.Sc. in Telecommunications and Electronic Systems. He has a deep love for programming and electronics. His favorite OS for personal use is Ubuntu.&lt;/p&gt;
