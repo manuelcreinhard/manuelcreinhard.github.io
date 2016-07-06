@@ -34,7 +34,7 @@ Sending this email is a repetitive task and should be simple. From this the idea
 
 &lt;p&gt;The idea is to turn the flick switch on, an LED on this switch turns on meaning the mechanism is armed and ready to send the email. Once armed the big red button is pushed and an email is sent. A simple state machine is an easy and clean way to tackle this problem.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;state_machine_daas.jpg&#34; alt=&#34;State Machine&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/2016/07/state_machine_daas.jpg&#34; alt=&#34;State Machine&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The project worked as intended. A couple of things can be made to improve this in the future. One such thing is sending birthday cake emails. A simple way to make this work is choosing the message depending on the day of the week. Fridays are doughnut days, any other day is cake day.&lt;/p&gt;
 </description>
