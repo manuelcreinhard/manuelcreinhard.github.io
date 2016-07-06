@@ -6,11 +6,42 @@
     <description>Recent content on Manuel Cantu Reinhard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2016 12:48:56 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jul 2016 17:02:44 +0100</lastBuildDate>
     <atom:link href="https://www.manuelreinhard.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>home setup</title>
+      <title>Summer 2016 Hackathon - DaaS</title>
+      <link>https://www.manuelreinhard.com/blog/hackathon_daas/</link>
+      <pubDate>Sun, 03 Jul 2016 17:02:44 +0100</pubDate>
+      
+      <guid>https://www.manuelreinhard.com/blog/hackathon_daas/</guid>
+      <description>&lt;p&gt;Earlier this month a team consisting of &lt;a href=&#34;http://www.jordanbonser.com/&#34;&gt;Jordan&lt;/a&gt;, &lt;a href=&#34;tobywf.com&#34;&gt;Toby&lt;/a&gt; and myself participated in a small hackathon. We decided to work on two projects.
+The first one was an infrastructure project which is why I won&amp;rsquo;t be talking about it. We also worked on a small fun project and therefore am able to disclose.&lt;/p&gt;
+
+&lt;p&gt;We have a doughnut rota, which means fresh Krispy Kreme doughnuts every friday. The one to bring doughnuts that day then proceeds to send an e-mail to notify everyone in the office.
+Sending this email is a repetitive task and should be simple. From this the idea of DaaS (Doughnuts as a Service) was born.&lt;/p&gt;
+
+&lt;p&gt;We needed something simple, cheap and able to connect to the network over ethernet. Thus the most sensible choice was a &lt;a href=&#34;www.raspberrypi.org&#34;&gt;Raspberry Pi&lt;/a&gt;. The main features are the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Raspberry Pi 2&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ubuntu Mate&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python 3&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sendmail&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flick switch&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Big red button&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The idea is to turn the flick switch on, an LED on this switch turns on meaning the mechanism is armed and ready to send the email. Once armed the big red button is pushed and an email is sent. A simple state machine is an easy and clean way to tackle this problem.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;state_machine_daas.jpg&#34; alt=&#34;State Machine&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The project worked as intended. A couple of things can be made to improve this in the future. One such thing is sending birthday cake emails. A simple way to make this work is choosing the message depending on the day of the week. Fridays are doughnut days, any other day is cake day.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Home Setup</title>
       <link>https://www.manuelreinhard.com/blog/homesetup/</link>
       <pubDate>Mon, 27 Jun 2016 12:48:56 +0100</pubDate>
       
